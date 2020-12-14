@@ -1,4 +1,4 @@
-package net.alexanderlehr.CodeForBWI;
+package net.alexanderlehr.codeforbwi;
 
 public class Hardware {
 

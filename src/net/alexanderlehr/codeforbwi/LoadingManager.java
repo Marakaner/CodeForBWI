@@ -1,7 +1,6 @@
-package net.alexanderlehr.CodeForBWI;
+package net.alexanderlehr.codeforbwi;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class LoadingManager {

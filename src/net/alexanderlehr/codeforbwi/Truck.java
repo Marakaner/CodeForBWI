@@ -1,7 +1,6 @@
-package net.alexanderlehr.CodeForBWI;
+package net.alexanderlehr.codeforbwi;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 public class Truck {
